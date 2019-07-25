@@ -1,3 +1,2 @@
 一阶段作业<br>
-<p>06day</p>
-<a href="https://LuoJin187.github.io / code / html /超凡科技.html">超凡科技</a>
+<a href="https://LuoJin187.github.io / code / html /超凡科技.html">06day超凡科技</a>
