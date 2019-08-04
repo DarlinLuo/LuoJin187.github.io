@@ -1,0 +1,74 @@
+.zu{
+    width: 500px;
+    margin: auto; 
+    /* margin-top: 100px;  */
+}
+label{
+    width: 100px;
+    display: inline-block;
+    text-align: right;
+    /* margin-left: 100px; */
+}
+input{
+    height: 25px;
+    width: 200px;
+    margin-top: 10px;
+}
+.zu-0{
+    border: 1px solid ;
+    padding: 5px;
+    font-size: 10px;
+}
+.lu{
+    width: 60px;
+    height: 30px;
+    background: blue;
+    margin-left: 20px;
+    display: inline-block;
+}
+.gou{
+    width: 30px;
+    height: 15px;
+    font-size: 12px;
+    margin-left: 100px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.span1{
+    font-size: 12px;
+}
+.p1{
+    color: #333333;
+    font-size: 12px;
+}
+.span2{
+    font-size: 14px;
+    color: rgb(89, 124, 241);font-weight: 600;
+}
+.span3{
+    font-size: 12px;
+    color: rgb(89, 124, 241);
+}
+.span4{
+    font-size: 12px;
+    color: blue;
+  /* margin-left: -30px;   */
+}
+.gou1{
+    width: 30px;
+    height: 15px;
+    font-size: 12px;
+    margin-left: 15px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.put{
+    width: 60px;
+    height: 30px;
+    background: rgb(45, 240, 224);
+    margin-left: 120px;
+}
+p{
+    font-size: 12px;
+    color: blue;
+}
