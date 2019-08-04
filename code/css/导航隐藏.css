@@ -1,0 +1,32 @@
+ul{
+    width:800px;
+    height: 100px;
+    line-height: 30px;
+    border-bottom: 5px solid #aaa;
+    margin: 100px auto;
+}
+ul li{
+    width: 100px;
+    height: 50px;
+    float: left;
+    font-size: 20px;
+    color: brown;
+    margin-top: 70px; 
+    text-align: center; 
+    margin-left: 30px; 
+}
+a{
+    display: block;
+    border: 1px solid #ccc;
+    /* background: pink; */
+}
+.yin{
+    display: none;
+}
+li:hover .yin{
+    display: block;
+    background: pink; 
+}
+li:hover .zhong{
+    display: none;
+}
