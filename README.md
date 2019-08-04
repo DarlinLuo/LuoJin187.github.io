@@ -5,4 +5,4 @@
 <a href="https://LuoJin187.github.io/day10/html/表单练习.html">10day表单练习</a><br>
 <a href="https://LuoJin187.github.io/mo/code2/html/开源博客.html">14day开源博客</a><br>
 <a href="https://LuoJin187.github.io/mo/code2/html/移动端.html">14day移动端</a><br>
-<a href="https://LuoJin187.github.io/mo/code1/html/搜石网.html">14day搜石网</a><br>
+<a href="https://LuoJin187.github.io/mo/code1/html/搜石网.html">12day搜石网</a><br>
